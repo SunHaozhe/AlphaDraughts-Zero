@@ -17,7 +17,7 @@ For pip users, run `pip install -r requirements.txt` to install dependencies.
 
 - Clone this repo:
 ```bash
-git clone https://github.com/Tong-ZHAO/AlphaDraughts-Zero
+git clone https://github.com/SunHaozhe/AlphaDraughts-Zero
 cd AlphaDraughts-Zero
 pip install -r requirements.txt
 ```
